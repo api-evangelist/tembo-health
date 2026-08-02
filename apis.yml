@@ -1,9 +1,27 @@
 aid: tembo-health
 name: Tembo Health
-description: Tembo Health is a company surfaced as a portfolio company of bloomberg-beta and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Tembo Health is a telemedicine practice (founded 2018) that partners with skilled nursing
+  facilities and senior living communities to deliver 24/7 virtual specialty and urgent care to
+  elderly residents. Its board-certified clinicians provide treat-in-place emergency medicine,
+  psychiatry, cardiology, and dementia care, reducing avoidable ER transfers by roughly 75 percent,
+  and the company works with senior-care operators and EHR platforms such as PointClickCare. Tembo
+  Health is a healthcare services provider and does not currently publish a public developer API,
+  SDK, or documentation surface; this profile captures its identity, security posture, and public
+  web properties.
 url: https://raw.githubusercontent.com/api-evangelist/tembo-health/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/6594408174542c29b7beefa3/659f26f3a743ce41edea48a4_Untitled%20design.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,9 +30,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Healthcare
+- Telehealth
+- Telemedicine
+- Senior Care
+- Dementia Care
+- Skilled Nursing
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +48,20 @@ maintainers:
 common:
 - type: Website
   url: https://tembo.health/
+- type: Blog
+  url: https://www.tembo.health/blog
+- type: Support
+  url: https://www.tembo.health/contact-us
+- type: TermsOfService
+  url: https://www.tembo.health/tos
+- type: PrivacyPolicy
+  url: https://www.tembo.health/privacy-policy
+- type: DomainSecurity
+  url: security/tembo-health-domain-security.yml
+- type: LLMsTxt
+  url: llms/tembo-health-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

@@ -1,0 +1,33 @@
+# Tembo Health
+
+> Tembo Health is a telemedicine practice (founded 2018) that partners with skilled nursing facilities and senior living communities to deliver 24/7 virtual specialty and urgent care to elderly residents — including treat-in-place emergency medicine, psychiatry, cardiology, and dementia care. Tembo Health is a healthcare services provider and does not currently publish a public developer API, SDK, or documentation surface.
+
+## About
+- [Tembo Health](https://www.tembo.health/): Company home page.
+- [About](https://www.tembo.health/about): Company mission and team.
+- [How It Works](https://www.tembo.health/individuals/how-it-works): How Tembo's virtual care is delivered to residents.
+- [Communities](https://www.tembo.health/communities): Senior living and skilled nursing communities served.
+
+## For Audiences
+- [For Providers](https://www.tembo.health/providers): Clinician information.
+- [For Payors](https://www.tembo.health/payors): Payor partnerships.
+- [Partner Guide](https://www.tembo.health/partners/guide): Guidance for facility partners.
+- [For Caregivers](https://www.tembo.health/individuals/for-caregivers): Family caregiver resources.
+- [For Seniors](https://www.tembo.health/individuals/for-seniors): Resident-facing information.
+- [Eligibility](https://www.tembo.health/eligibility): Check eligibility.
+- [Referral](https://www.tembo.health/referral): Make a referral.
+
+## Content
+- [Blog](https://www.tembo.health/blog): Company blog and updates.
+- [FAQ](https://www.tembo.health/individuals/frequently-asked-questions): Frequently asked questions.
+
+## Company
+- [Contact](https://www.tembo.health/contact-us): Contact the company.
+- [Careers](https://jobs.ashbyhq.com/Tembo-health): Open roles (Ashby).
+- [LinkedIn](https://www.linkedin.com/company/tembohealth/): Company LinkedIn.
+
+## Legal
+- [Terms of Service](https://www.tembo.health/tos): Terms of service.
+- [Privacy Policy](https://www.tembo.health/privacy-policy): Privacy policy.
+- [Notice of Privacy Practices](https://www.tembo.health/notice-of-privacy-practices): HIPAA notice of privacy practices.
+- [Data Protection](https://www.tembo.health/data-protection): Data protection statement.
