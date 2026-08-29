@@ -10,6 +10,17 @@ description: >-
   SDK, or documentation surface; this profile captures its identity, security posture, and public
   web properties.
 url: https://raw.githubusercontent.com/api-evangelist/tembo-health/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
